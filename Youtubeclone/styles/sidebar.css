@@ -1,0 +1,76 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    width: 72px;
+    bottom: 0;
+    top: 55px;
+    font-family: arial;
+    font-size: 10px;
+    background-color: white;
+}
+.home-container {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.home-icon {
+    width: 25px;
+    margin-bottom: 5px;
+}
+.explore-container {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.explore-icon {
+    width: 25px;
+    margin-bottom: 5px;
+}
+.subscriptions-container{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.subscriptions-icon {
+    width: 25px;
+    margin-bottom: 5px;
+}
+.originals-container{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.originals-icon {
+    width: 25px;
+    margin-bottom: 5px;
+}
+.youtube-music-container {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.youtube-music-icon {
+    width: 25px;
+    margin-bottom: 5px;
+}
+.library-container {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.library-icon {
+    width: 25px;
+    margin-bottom: 5px;
+}
